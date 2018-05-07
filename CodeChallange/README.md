@@ -1,6 +1,6 @@
 # devops-code-challenge-2016
 
-## Introduction
+## Introduction to 
 
 This project is designed as a quick exercise to gauge a candidate's
 understanding of general automation and systems knowledge.
